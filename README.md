@@ -30,7 +30,7 @@ Web developer passionate about turning ideas into working products — from stat
 [![GitHub](https://img.shields.io/badge/GitHub-RatyelAlves-181717?style=flat&logo=github&logoColor=white)](https://github.com/RatyelAlves)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Sandbox-2563eb?style=flat&logo=github&logoColor=white)](https://github.com/RatyelAlves/sandbox)
 [![Live Demo](https://img.shields.io/badge/Demo-Rifa_Online-16a34a?style=flat&logo=googlechrome&logoColor=white)](https://rifatech07.github.io)
-[![Email](https://img.shields.io/badge/Email-ratielalves@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ratielalves@gmail.com)
+[![Email](https://img.shields.io/badge/Email-cotraxdev@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:cotraxdev@gmail.com)
 
 ---
 
