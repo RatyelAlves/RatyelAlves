@@ -1,4 +1,4 @@
-# Ratyel Alves · C0tr4x 👋
+# Ratyel Alves · C0tr4x 
 
 **C0tr4x Dev** — building real-world web apps / criando apps web de verdade.
 
@@ -34,4 +34,4 @@ Web developer passionate about turning ideas into working products — from stat
 
 ---
 
-*Always learning / Sempre aprendendo* 🚀
+*Always learning
