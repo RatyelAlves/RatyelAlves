@@ -12,6 +12,7 @@ Full-stack developer focused on **JavaScript**, **React**, **Supabase**, and **P
 |---------|-------------|
 | [**Rifa Online**](https://rifatech07.github.io) | Solidarity raffle system · GitHub Pages + Supabase |
 | [**Sandbox**](https://github.com/RatyelAlves/sandbox) | Portfolio hub · study and production projects |
+| [**TerreiroMap**](https://github.com/RatyelAlves/sandbox/tree/main/terreiro-map) | Map platform for Afro-Brazilian terreiros · Next.js + Supabase + Leaflet |
 | **EstheticFlow** | CRM for aesthetic clinics · WhatsApp + AI |
 | **Notes Fullstack** | Notes app · React + Fastify |
 | **FlashPDF** | Batch PDF printing tool |
